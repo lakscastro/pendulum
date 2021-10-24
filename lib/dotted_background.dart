@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/// Just for decoration, this don't have any relevancy on pendulum implementation
 class DottedBackground extends StatefulWidget {
   final Widget? child;
   final Color color;
