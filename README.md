@@ -9,5 +9,4 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
     <img src="https://user-images.githubusercontent.com/51419598/138587615-53b61319-9b4f-4aa6-a6ae-96be017df168.gif" align="center">
 </kbd>
 
-
 </p>
