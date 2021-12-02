@@ -15,5 +15,5 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
 
 ### Resources
 
-- [Double Pendulum explication at Wikipedia](https://en.wikipedia.org/wiki/Double_pendulum)
+- [Double Pendulum explanation at Wikipedia](https://en.wikipedia.org/wiki/Double_pendulum)
 - [Double Pendulum video challenge](https://www.youtube.com/watch?v=uWzPe_S-RVE)
