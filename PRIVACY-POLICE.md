@@ -20,4 +20,4 @@ This App don't have any type of Augmented Reality (AR)
 
 ## Why we do not collect personal data
 
-This App only shows a simple simple static animation, that is all. We **don't need** to collect any personal data.
+This App only shows a simple static animation, that is all. We **don't need** to collect any personal data.
