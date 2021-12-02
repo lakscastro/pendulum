@@ -1,6 +1,6 @@
 ## Personal data & Privacy
 
-This App don't collect or share personal data, this is our privacy police.**
+This App don't collect or share personal data, this is our privacy police.
 
 ## App content
 
