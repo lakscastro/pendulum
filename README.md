@@ -9,11 +9,16 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
 <p align="center">
   <kbd>
     <img src="https://user-images.githubusercontent.com/51419598/138587615-53b61319-9b4f-4aa6-a6ae-96be017df168.gif" align="center">
-</kbd>
-
+  </kbd>
 </p>
+
+<p align="center">
+  <img alt="google-play-badge" height="75" src="https://user-images.githubusercontent.com/51419598/144630460-8168c7cb-a608-4119-be00-ccc45452f7e7.png">
+</p>
+
 
 ### Resources
 
 - [Double Pendulum explanation at Wikipedia](https://en.wikipedia.org/wiki/Double_pendulum)
 - [Double Pendulum video challenge](https://www.youtube.com/watch?v=uWzPe_S-RVE)
+
