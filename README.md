@@ -24,3 +24,10 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
 - [Double Pendulum explanation at Wikipedia](https://en.wikipedia.org/wiki/Double_pendulum)
 - [Double Pendulum video challenge](https://www.youtube.com/watch?v=uWzPe_S-RVE)
 
+## Support
+
+If you have ideas to share, bugs to report or need support, you can either open an issue or join our Discord server
+
+<a href="https://discord.gg/86GDERXZNS">
+  <kbd><img src="https://discordapp.com/api/guilds/771498135188799500/widget.png?style=banner2" alt="Discord Banner"/></kbd>
+</a>
