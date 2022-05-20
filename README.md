@@ -14,7 +14,7 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=io.lakscastro.pendulum">
-    <img alt="google-play-badge" height="75" src="https://user-images.githubusercontent.com/51419598/144630460-8168c7cb-a608-4119-be00-ccc45452f7e7.png">
+    <img alt="google-play-badge" height="75" src="https://user-images.githubusercontent.com/51419598/169551843-e145e952-3c02-4ba0-9026-93b19b6d77a1.png">
   </a>
 </p>
 
