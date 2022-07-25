@@ -2,7 +2,7 @@
 
 I saw a video about a [double pendulum implementation in ASCII C++](https://www.youtube.com/watch?v=DMOK5BS6KJw) and I wanted to convert it to a mobile animation, so here we are.
 
-Also, Apk is available to [download for Android on release tab.](https://github.com/LaksCastro/pendulum/releases)
+Also, Apk is available to [download for Android on release tab.](https://github.com/alexrintt/pendulum/releases)
 
 I've implemented a `CustomPainter` who draws the first and second coordinate of the pendulum. And below you can see the visual result, run 60fps in a real device.
 
@@ -13,11 +13,10 @@ I've implemented a `CustomPainter` who draws the first and second coordinate of 
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=io.lakscastro.pendulum">
+  <a href="https://play.google.com/store/apps/details?id=io.alexrintt.pendulum">
     <img alt="google-play-badge" height="75" src="https://user-images.githubusercontent.com/51419598/169551843-e145e952-3c02-4ba0-9026-93b19b6d77a1.png">
   </a>
 </p>
-
 
 ### Resources
 

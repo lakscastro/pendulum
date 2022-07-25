@@ -1,4 +1,4 @@
-package io.lakscastro.pendulum
+package io.alexrintt.pendulum
 
 import io.flutter.embedding.android.FlutterActivity
 
